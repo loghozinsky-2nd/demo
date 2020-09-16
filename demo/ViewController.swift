@@ -19,7 +19,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-        button.setTitle("MOR3 BUTTON", for: .normal)
+        button.setTitle("MOR333 BUTTON", for: .normal)
         button.setTitle("FRSB BUTTON", for: .highlighted)
         
         buttonSecond.setTitle("dota 3", for: .normal)
